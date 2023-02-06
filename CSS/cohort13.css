@@ -1,0 +1,29 @@
+p{
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
+.odd{
+    color: green;
+    text-align: left;
+}
+.even{
+    color: blue;
+    text-align: right;
+}
+div>pre>p{
+    color: red;
+}
+#brucewayne{
+    font-size: 30px;
+    font-weight: bold;
+    color: aqua;
+    background-color: yellow;
+}
+*{
+    color: brown;
+}
