@@ -1,0 +1,12 @@
+.container{
+    border-color: red;
+    border-style: dotted;
+}
+.container-fluid{
+    border-color: purple;
+    border-style: dotted;
+}
+.col{
+    border-color: blue;
+    border-style: dashed;
+}
